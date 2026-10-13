@@ -79,7 +79,10 @@ body{
 .dl{
     color: white;
 }
-
+img{
+    width: 100%;
+    height: 100vh;
+}
 
 @media screen and (min-width: 600px) {
     header main article{
@@ -115,7 +118,4 @@ body{
     }
 }
 
-img{
-    width: 100%;
-    height: 100vh;
-}
+
